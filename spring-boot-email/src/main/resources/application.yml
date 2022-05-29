@@ -1,0 +1,16 @@
+
+#spring.mail.properties.mail.smtp.auth: true
+spring.mail.properties.mail.smtp.starttls.enable: true
+
+spring:
+  mail:
+    host: smtp.gmail.com
+    username: kartsuri89@gmail.com
+    password: kezvlrulzkxulibv
+    port: 587
+    protocol: smtp
+    properties:
+      auth: true
+
+server:
+  port: 8888     
