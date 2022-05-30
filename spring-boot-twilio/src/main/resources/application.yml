@@ -1,0 +1,7 @@
+server:
+  port: 9090
+  
+twilio:
+  account_sid: AC444fde3954ecb32d5532303298046087
+  auth_token: 5f6009b621a252d44b76aa0ff5dc43a9
+  phone_number: +18317501045
